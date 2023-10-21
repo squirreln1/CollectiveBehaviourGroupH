@@ -1,21 +1,21 @@
 # CollectiveBehaviourGroupH
 This is the GitHub repository for the group H in collective behaviour 2023/2024
 
-##Members : 
+## Members : 
 Clara STAVUN : @cstavun
 Kim GEORGET : @kimgeorget
 Meggy CHAMAND : 
 Bella : 
 
-##Starting point :
+## Starting point :
 "An agent-based model of nest-site selection in a mass-recruiting ant" - research paper by Adam Colin from October 2018
 
-##Goals of the project : 
+## Goals of the project : 
 We have search – and find - an article which highlight a collective behavior among ants.
 Indeed, all of us wanted to study animals and more specifically ants, as their behavior as a group is impressive. One of us was also interested by the influence of a group in decision-making during a vote. At the end, we found the perfect paper : "An agent-based model of nest-site selection in a mass-recruiting ant". Not only does it explain ants behaviour, but it also studies how individual parameters lead to make a collective decision. --> Results of the research paper show "how an individual-based algorithm based on mass-recruiting ants can emulate a complex and collective biological process over a range of scenarios. It studies how numerous individual-level components contribute to the collective decision process during househunting in a mass-recruiting ant species"  (copy/past of the article : need to be reformulated) !!)
 
 
-##Expected timeline :
+## Expected timeline :
 
 Here is how we plan to carry out this project.
 
