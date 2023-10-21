@@ -2,10 +2,10 @@
 This is the GitHub repository for the group H in collective behaviour 2023/2024
 
 ## Members : 
-Clara STAVUN : @cstavun
-Kim GEORGET : @kimgeorget
-Meggy CHAMAND : 
-Bella : 
+Clara STAVUN : @cstavun  
+Kim GEORGET : @kimgeorget  
+Meggy CHAMAND :  
+Bella :  
 
 ## Starting point :
 "An agent-based model of nest-site selection in a mass-recruiting ant" - research paper by Adam Colin from October 2018
