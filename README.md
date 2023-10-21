@@ -6,7 +6,7 @@ This is the GitHub repository for the group H in collective behaviour 2023/2024
 Clara STAVUN : @cstavun  
 Kim GEORGET : @kimgeorget  
 Meggy CHAMAND :  
-Bella :  
+Bella MURADIAN :  
 
 
 ## Introduction : 
@@ -38,14 +38,17 @@ Finally, we will try to use the model to explain solve problems in other areas w
 Here is how we plan to carry out this project.
 
 Phase 1 : 23/10/2023 - 19/11/2023
-We will first make several research on the subject. We need to have a general understanding of how ants based models work and what research has already been done in this area. 
+We will first make several research on the subject. We need to have a general understanding of how ants based models work and what model has been developped in this area. In parallele, will will install all tools needed to implement the model.
+We will also try to implement a first version of our model which will be more or less developped depending on how much time we have after the researches. 
+*19th November 2023 : First report* 
 
-* 19th November 2023 : First report  
- We need to understand the general idea and to look at the different parameters to consider. Thus, we will be able to provide a first framework of a model depicting the nest-site selection in a mass-recruiting an.
+Phase 2 : 19/11/2023 - 17/12/2023
+During these weeks, we will test our model accuracy with different parameters. Thanks to these tests, we'll be able to improve the model.
+*17th December 2023 : Second report* 
 
-* 17th December 2023 : Second report  
-The first step will allow us to establish a clear model and to implement it in Python. This part will probably be the most difficult one, as we’ll have to try different methods and to implement concretely what we have learn from our research. It will also be the occasion to think about some tests we will do later for verification of the model. 
+Phase 3 : 17/12/2023 - 07/01/2024
+We'll use the beginning of this phase to compensate for any delai we may have met in the precedent phase and have a optimise model.
+Depending on how much time is left, we'll do research on how this model can be applied to other problems and test if it can solve them.
+*7th January 2024 : Last report *
 
-* 7th January 2024 : Last report  
-Our last report will present our general work, with the main research we’ve done, the methodology we used, the model we implemented, the test we’ve done, and a discussion about the use of solution we gave and what could be improved.
 
