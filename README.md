@@ -6,8 +6,7 @@ This is the GitHub repository for the group H in collective behaviour 2023/2024
 Clara STAVUN : @cstavun  
 Kim GEORGET : @kimgeorget  
 Meggy CHAMAND :  
-Bella MURADIAN :  
-
+Bella MURADIAN :@squirreln1
 
 ## Introduction : 
 We were looking for an article which highlight the collective behavior of ants which interested us as we found their group behaviour impressive. We settled for this paper : "An agent-based model of nest-site selection in a mass-recruiting ant". Not only does it explain single ants behaviour, but it also studies how individual parameters lead to collective decisions, in particular during househunting in a mass-recruting ant species. 
